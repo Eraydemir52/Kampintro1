@@ -11,7 +11,7 @@ namespace Kampintro1
             Kurs kurs1 = new Kurs();
             kurs1.Kursadi = "c#";
             kurs1.Eğitmen = "Engin Demiroğ";
-            kurs1.İzlenmeOranı = "68";
+            kurs1.İzlenmeOranı = "69";
 
             Kurs kurs2 = new Kurs();
             kurs2.Kursadi = "java";
